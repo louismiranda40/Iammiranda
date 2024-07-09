@@ -1,2 +1,4 @@
-# Iammiranda
-Personal website
+# IT Specialist
+
+## Education
+Associate of Arts (General Studies) 
